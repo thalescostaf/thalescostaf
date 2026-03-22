@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <img src="./assets/profile.jpg" alt="Thales Fernandes" width="40%" style="max-width: 300px; border-radius: 12px;" />
@@ -107,3 +108,7 @@ Descrição breve do projeto. O que ele faz, qual problema resolve e qual o dife
 <sub>Feito com muito café ☕ e Linux 🐧 · <a href="mailto:contato@thalesfernandes.dev">contato@thalesfernandes.dev</a></sub>
 
 </div>
+=======
+# thalescostaf.github.io
+Repositório para thalesfernandes.dev
+>>>>>>> d416d952135c023eb21a04b664d6b5b0a44ac432
