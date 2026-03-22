@@ -21,6 +21,10 @@
 
 ---
 
+<sub><a href="https://www.inovamind.dev">inovamind.dev</a> | <a href="https://www.victorgabriel.dev">VictorGabriel.dev</a></sub>
+
+---
+
 ## Tecnologias
 
 ### Linguagens
@@ -94,7 +98,5 @@ Descrição breve do projeto. O que ele faz, qual problema resolve e qual o dife
 ---
 
 <sub>Feito com muito café ☕ · <a href="mailto:contato@thalesfernandes.dev">contato@thalesfernandes.dev</a></sub>
-
-<sub>Desenvolvido com a <a href="https://www.inovamind.dev">Inovamind</a> · Inspirado em <a href="https://www.victorgabriel.dev">victorgabriel.dev</a></sub>
 
 </div>
