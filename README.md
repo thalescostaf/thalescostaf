@@ -61,15 +61,18 @@
 
 ## Projetos
 
-### [Nome do Projeto 1](https://github.com/thalescostaf/projeto-1)
+### [InovaNiver](https://github.com/thalescostaf/InovaNiver)
 
-Descrição breve do projeto. O que ele faz, qual problema resolve e qual o diferencial.
+Sistema de registro e notificação de aniversários da **Inovamind**.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009cde?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14%2B-012169?style=flat-square&logo=postgresql&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-2.0-009cde?style=flat-square)
 
-[Ver projeto](https://github.com/thalescostaf/projeto-1)
+[Ver projeto](https://github.com/thalescostaf/InovaNiver)
 
 ---
 
